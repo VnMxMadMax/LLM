@@ -20,8 +20,8 @@ This project implements a **minimal Word2Vec-style word embedding model** from s
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mini-word-embedding.git
-cd mini-word-embedding
+git clone https://github.com/VnMxMadMax/LLM.git
+cd Word Embedding
 ```
 
 ### 2. Install dependencies
@@ -35,7 +35,7 @@ pip install numpy matplotlib scikit-learn tqdm
 ### 3. Run the notebook
 
 ```bash
-jupyter notebook mini_word_embedding.ipynb
+jupyter notebook word_embedding.ipynb
 ```
 
 ---
@@ -64,9 +64,9 @@ Words like `'king'` and `'queen'` will be placed close together if trained corre
 ## 📂 File Structure
 
 ```
-📁 mini-word-embedding/
-├── mini_word_embedding.ipynb     # Main notebook
-├── README.md                     # You're here
+📁 Word Embedding/
+├── word_embedding.ipynb     # Main notebook
+├── README.md                # You're here
 ```
 
 ---
